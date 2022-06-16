@@ -15,5 +15,6 @@ public class App
         System.out.println( "Hello hot_fix" );
         System.out.println( "Hello life" );
         System.out.println( "Hello gitHub" );
+        System.out.println( "Hello Idea" );
     }
 }
